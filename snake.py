@@ -1,3 +1,9 @@
+"""
+snake.py
+By Dylan Clarry
+April 22nd 2018
+"""
+
 import pygame
 import sys
 import random
